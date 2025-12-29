@@ -1,0 +1,299 @@
+{ "cat":"", "pid":12345, "tid":0, "ts":0, "ph":"M", "name":"process_name", "args": { "name":"bee_backend" } }
+,{ "pid":12345, "tid":0, "ts":1767013385129413, "dur":10815, "ph":"X", "name": "DriverInitData",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1767013385140237, "dur":83, "ph":"X", "name": "RemoveStaleOutputs",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1767013385140349, "dur":1204, "ph":"X", "name": "BuildQueueInit",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1767013385141749, "dur":61, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/abdal/Desktop/githubproject/terrains/Terrains_Data/globalgamemanagers.assets.resS" }}
+,{ "pid":12345, "tid":0, "ts":1767013385141853, "dur":62, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/abdal/Desktop/githubproject/terrains/Terrains_Data/level0.resS" }}
+,{ "pid":12345, "tid":0, "ts":1767013385141917, "dur":53, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/abdal/Desktop/githubproject/terrains/Terrains_Data/level1" }}
+,{ "pid":12345, "tid":0, "ts":1767013385142026, "dur":95, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/abdal/Desktop/githubproject/terrains/Terrains_Data/RuntimeInitializeOnLoads.json" }}
+,{ "pid":12345, "tid":0, "ts":1767013385142257, "dur":83, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/abdal/Desktop/githubproject/terrains/Terrains_Data/sharedassets1.assets" }}
+,{ "pid":12345, "tid":0, "ts":1767013385142426, "dur":122, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/abdal/Desktop/githubproject/terrains/Terrains_Data/boot.config" }}
+,{ "pid":12345, "tid":0, "ts":1767013385142903, "dur":79, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/abdal/Desktop/githubproject/terrains/Terrains_Data/Managed/UnityEngine.ARModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1767013385143006, "dur":53, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/abdal/Desktop/githubproject/terrains/Terrains_Data/Managed/UnityEngine.AndroidJNIModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1767013385143103, "dur":186, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/abdal/Desktop/githubproject/terrains/Terrains_Data/Managed/UnityEngine.AssetBundleModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1767013385143293, "dur":58, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/abdal/Desktop/githubproject/terrains/Terrains_Data/Managed/UnityEngine.AudioModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1767013385143400, "dur":87, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/abdal/Desktop/githubproject/terrains/Terrains_Data/Managed/UnityEngine.ClusterInputModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1767013385143490, "dur":76, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/abdal/Desktop/githubproject/terrains/Terrains_Data/Managed/UnityEngine.ClusterRendererModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1767013385143569, "dur":59, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/abdal/Desktop/githubproject/terrains/Terrains_Data/Managed/UnityEngine.ContentLoadModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1767013385143654, "dur":58, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/abdal/Desktop/githubproject/terrains/Terrains_Data/Managed/UnityEngine.CrashReportingModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1767013385143752, "dur":142, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/abdal/Desktop/githubproject/terrains/Terrains_Data/Managed/UnityEngine.DirectorModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1767013385144051, "dur":97, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/abdal/Desktop/githubproject/terrains/Terrains_Data/Managed/UnityEngine.GridModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1767013385144240, "dur":60, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/abdal/Desktop/githubproject/terrains/Terrains_Data/Managed/UnityEngine.ImageConversionModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1767013385144495, "dur":51, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/abdal/Desktop/githubproject/terrains/Terrains_Data/Managed/UnityEngine.ParticleSystemModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1767013385144658, "dur":51, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/abdal/Desktop/githubproject/terrains/Terrains_Data/Managed/UnityEngine.ProfilerModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1767013385144712, "dur":57, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/abdal/Desktop/githubproject/terrains/Terrains_Data/Managed/UnityEngine.PropertiesModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1767013385144772, "dur":54, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/abdal/Desktop/githubproject/terrains/Terrains_Data/Managed/UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1767013385144978, "dur":74, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/abdal/Desktop/githubproject/terrains/Terrains_Data/Managed/UnityEngine.StreamingModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1767013385145092, "dur":50, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/abdal/Desktop/githubproject/terrains/Terrains_Data/Managed/UnityEngine.SubsystemsModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1767013385145285, "dur":75, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/abdal/Desktop/githubproject/terrains/Terrains_Data/Managed/UnityEngine.TextCoreTextEngineModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1767013385146424, "dur":57, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/abdal/Desktop/githubproject/terrains/Terrains_Data/Managed/Unity.VisualScripting.Flow.dll" }}
+,{ "pid":12345, "tid":0, "ts":1767013385147361, "dur":55, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/abdal/Desktop/githubproject/terrains/Terrains.exe" }}
+,{ "pid":12345, "tid":0, "ts":1767013385147419, "dur":68, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/abdal/Desktop/githubproject/terrains/MonoBleedingEdge/EmbedRuntime/mono-2.0-bdwgc.dll" }}
+,{ "pid":12345, "tid":0, "ts":1767013385141599, "dur":6533, "ph":"X", "name": "EnqueueRequestedNodes",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1767013385148133, "dur":235545, "ph":"X", "name": "WaitForBuildFinished", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1767013385383680, "dur":199, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1767013385383880, "dur":100, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1767013385383986, "dur":51, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1767013385384257, "dur":2639, "ph":"X", "name": "Tundra",  "args": { "detail":"Write AllBuiltNodes" }}
+,{ "pid":12345, "tid":1, "ts":1767013385141967, "dur":6177, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1767013385148150, "dur":5341, "ph":"X", "name": "CheckDagSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1767013385157834, "dur":896, "ph":"X", "name": "WriteText",  "args": { "detail":"Library/Bee/artifacts/csharpactions/boot.config_tyr4.info" }}
+,{ "pid":12345, "tid":1, "ts":1767013385158734, "dur":58, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\PlayerDataCache\\Win64\\Data\\boot.config" }}
+,{ "pid":12345, "tid":1, "ts":1767013385158798, "dur":59, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\PlayerDataCache\\Win64\\Data\\RuntimeInitializeOnLoads.json" }}
+,{ "pid":12345, "tid":1, "ts":1767013385158857, "dur":71, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\PlayerDataCache\\Win64\\Data\\ScriptingAssemblies.json" }}
+,{ "pid":12345, "tid":1, "ts":1767013385159205, "dur":61, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Unit training\\Terrains\\Terrains\\Library\\Bee\\PlayerScriptAssemblies\\Assembly-CSharp.dll" }}
+,{ "pid":12345, "tid":1, "ts":1767013385159267, "dur":226, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Unit training\\Terrains\\Terrains\\Library\\Bee\\PlayerScriptAssemblies\\Unity.Postprocessing.Runtime.dll" }}
+,{ "pid":12345, "tid":1, "ts":1767013385159494, "dur":53, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Unit training\\Terrains\\Terrains\\Library\\Bee\\PlayerScriptAssemblies\\Unity.AI.Navigation.dll" }}
+,{ "pid":12345, "tid":1, "ts":1767013385159548, "dur":529, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Unit training\\Terrains\\Terrains\\Library\\Bee\\PlayerScriptAssemblies\\Unity.VisualScripting.Core.dll" }}
+,{ "pid":12345, "tid":1, "ts":1767013385160078, "dur":297, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Unit training\\Terrains\\Terrains\\Library\\Bee\\PlayerScriptAssemblies\\UnityEngine.UI.dll" }}
+,{ "pid":12345, "tid":1, "ts":1767013385160376, "dur":318, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Unit training\\Terrains\\Terrains\\Library\\Bee\\PlayerScriptAssemblies\\Unity.VisualScripting.Flow.dll" }}
+,{ "pid":12345, "tid":1, "ts":1767013385160695, "dur":157, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Unit training\\Terrains\\Terrains\\Library\\Bee\\PlayerScriptAssemblies\\Unity.Timeline.dll" }}
+,{ "pid":12345, "tid":1, "ts":1767013385160853, "dur":289, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Unit training\\Terrains\\Terrains\\Library\\Bee\\PlayerScriptAssemblies\\Unity.TextMeshPro.dll" }}
+,{ "pid":12345, "tid":1, "ts":1767013385161142, "dur":61, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Unit training\\Terrains\\Terrains\\Library\\Bee\\PlayerScriptAssemblies\\Unity.VisualScripting.State.dll" }}
+,{ "pid":12345, "tid":1, "ts":1767013385161255, "dur":55, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\Player832b7339-inputdata.json" }}
+,{ "pid":12345, "tid":1, "ts":1767013385158733, "dur":2678, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"AddBootConfigGUID Library/Bee/artifacts/WinPlayerBuildProgram/boot.config" }}
+,{ "pid":12345, "tid":1, "ts":1767013385162762, "dur":214898, "ph":"X", "name": "AddBootConfigGUID",  "args": { "detail":"Library/Bee/artifacts/WinPlayerBuildProgram/boot.config" }}
+,{ "pid":12345, "tid":1, "ts":1767013385381931, "dur":82, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\boot.config" }}
+,{ "pid":12345, "tid":1, "ts":1767013385381930, "dur":84, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/abdal/Desktop/githubproject/terrains/Terrains_Data/boot.config" }}
+,{ "pid":12345, "tid":1, "ts":1767013385382034, "dur":1575, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/abdal/Desktop/githubproject/terrains/Terrains_Data/boot.config" }}
+,{ "pid":12345, "tid":2, "ts":1767013385142204, "dur":5964, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1767013385148174, "dur":975, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1767013385149149, "dur":4363, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1767013385153538, "dur":643, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.58f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\4.5\\machine.config" }}
+,{ "pid":12345, "tid":2, "ts":1767013385153513, "dur":669, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/abdal/Desktop/githubproject/terrains/MonoBleedingEdge/etc/mono/4.5/machine.config" }}
+,{ "pid":12345, "tid":2, "ts":1767013385161874, "dur":2671, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/abdal/Desktop/githubproject/terrains/MonoBleedingEdge/etc/mono/4.5/machine.config" }}
+,{ "pid":12345, "tid":2, "ts":1767013385164598, "dur":102, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/abdal/Desktop/githubproject/terrains/Terrains_Data/Resources/unity default resources" }}
+,{ "pid":12345, "tid":2, "ts":1767013385177749, "dur":118, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1767013385165653, "dur":12261, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/abdal/Desktop/githubproject/terrains/Terrains_Data/Resources/unity default resources" }}
+,{ "pid":12345, "tid":2, "ts":1767013385178238, "dur":11277, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/abdal/Desktop/githubproject/terrains/Terrains_Data/Managed/System.Drawing.dll" }}
+,{ "pid":12345, "tid":2, "ts":1767013385189603, "dur":11685, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/abdal/Desktop/githubproject/terrains/Terrains_Data/Managed/Unity.VisualScripting.Core.dll" }}
+,{ "pid":12345, "tid":2, "ts":1767013385201352, "dur":8403, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/abdal/Desktop/githubproject/terrains/Terrains_Data/Managed/UnityEngine.VRModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1767013385209815, "dur":10823, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/abdal/Desktop/githubproject/terrains/Terrains_Data/Managed/UnityEngine.UIElementsModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1767013385220776, "dur":8761, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/abdal/Desktop/githubproject/terrains/Terrains_Data/Managed/UnityEngine.ParticleSystemModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1767013385242537, "dur":67, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1767013385229610, "dur":13049, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/abdal/Desktop/githubproject/terrains/Terrains_Data/Managed/UnityEngine.CoreModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1767013385242817, "dur":13647, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/abdal/Desktop/githubproject/terrains/Terrains_Data/sharedassets0.assets.resS" }}
+,{ "pid":12345, "tid":2, "ts":1767013385256553, "dur":127121, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1767013385142090, "dur":6066, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1767013385148163, "dur":838, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1767013385149001, "dur":4527, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1767013385153529, "dur":282, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/abdal/Desktop/githubproject/terrains/MonoBleedingEdge/etc/mono/4.0/settings.map" }}
+,{ "pid":12345, "tid":3, "ts":1767013385158546, "dur":2807, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/abdal/Desktop/githubproject/terrains/MonoBleedingEdge/etc/mono/4.0/settings.map" }}
+,{ "pid":12345, "tid":3, "ts":1767013385161404, "dur":118, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.58f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\2.0\\web.config" }}
+,{ "pid":12345, "tid":3, "ts":1767013385161402, "dur":121, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/abdal/Desktop/githubproject/terrains/MonoBleedingEdge/etc/mono/2.0/web.config" }}
+,{ "pid":12345, "tid":3, "ts":1767013385162271, "dur":3729, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/abdal/Desktop/githubproject/terrains/MonoBleedingEdge/etc/mono/2.0/web.config" }}
+,{ "pid":12345, "tid":3, "ts":1767013385167145, "dur":21261, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/abdal/Desktop/githubproject/terrains/Terrains_Data/Managed/mscorlib.dll" }}
+,{ "pid":12345, "tid":3, "ts":1767013385188524, "dur":12450, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/abdal/Desktop/githubproject/terrains/Terrains_Data/Managed/netstandard.dll" }}
+,{ "pid":12345, "tid":3, "ts":1767013385201057, "dur":8564, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/abdal/Desktop/githubproject/terrains/Terrains_Data/Managed/UnityEngine.VideoModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1767013385209678, "dur":9585, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/abdal/Desktop/githubproject/terrains/Terrains_Data/Managed/UnityEngine.UIModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1767013385219401, "dur":8758, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/abdal/Desktop/githubproject/terrains/Terrains_Data/Managed/UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1767013385228231, "dur":8439, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/abdal/Desktop/githubproject/terrains/Terrains_Data/Managed/UnityEngine.GridModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1767013385236773, "dur":11762, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/abdal/Desktop/githubproject/terrains/Terrains_Data/Managed/UnityEngine.AndroidJNIModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1767013385254544, "dur":63, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1767013385248768, "dur":5870, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/abdal/Desktop/githubproject/terrains/Terrains_Data/Resources/unity_builtin_extra" }}
+,{ "pid":12345, "tid":3, "ts":1767013385254710, "dur":128970, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1767013385142371, "dur":5826, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1767013385148203, "dur":1000, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1767013385149204, "dur":4322, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1767013385153551, "dur":520, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.58f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\4.0\\web.config" }}
+,{ "pid":12345, "tid":4, "ts":1767013385153532, "dur":540, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/abdal/Desktop/githubproject/terrains/MonoBleedingEdge/etc/mono/4.0/web.config" }}
+,{ "pid":12345, "tid":4, "ts":1767013385161126, "dur":2813, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/abdal/Desktop/githubproject/terrains/MonoBleedingEdge/etc/mono/4.0/web.config" }}
+,{ "pid":12345, "tid":4, "ts":1767013385164072, "dur":3668, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/abdal/Desktop/githubproject/terrains/Terrains.exe" }}
+,{ "pid":12345, "tid":4, "ts":1767013385167790, "dur":21015, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/abdal/Desktop/githubproject/terrains/Terrains_Data/Managed/System.Runtime.Serialization.dll" }}
+,{ "pid":12345, "tid":4, "ts":1767013385188987, "dur":12475, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/abdal/Desktop/githubproject/terrains/Terrains_Data/Managed/Unity.TextMeshPro.dll" }}
+,{ "pid":12345, "tid":4, "ts":1767013385201529, "dur":8810, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/abdal/Desktop/githubproject/terrains/Terrains_Data/Managed/UnityEngine.UnityWebRequestModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1767013385210424, "dur":9753, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/abdal/Desktop/githubproject/terrains/Terrains_Data/Managed/UnityEngine.TerrainPhysicsModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1767013385220232, "dur":8475, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/abdal/Desktop/githubproject/terrains/Terrains_Data/Managed/UnityEngine.Physics2DModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1767013385228766, "dur":8434, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/abdal/Desktop/githubproject/terrains/Terrains_Data/Managed/UnityEngine.DirectorModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1767013385237255, "dur":132, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.58f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\UnityPlayer.dll" }}
+,{ "pid":12345, "tid":4, "ts":1767013385237253, "dur":135, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/abdal/Desktop/githubproject/terrains/UnityPlayer.dll" }}
+,{ "pid":12345, "tid":4, "ts":1767013385237404, "dur":62198, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/abdal/Desktop/githubproject/terrains/UnityPlayer.dll" }}
+,{ "pid":12345, "tid":4, "ts":1767013385299705, "dur":83970, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1767013385142560, "dur":5670, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1767013385148236, "dur":1008, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1767013385149244, "dur":4293, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1767013385153539, "dur":731, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/abdal/Desktop/githubproject/terrains/MonoBleedingEdge/etc/mono/4.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":5, "ts":1767013385163494, "dur":2965, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/abdal/Desktop/githubproject/terrains/MonoBleedingEdge/etc/mono/4.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":5, "ts":1767013385167242, "dur":21994, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/abdal/Desktop/githubproject/terrains/Terrains_Data/Managed/System.dll" }}
+,{ "pid":12345, "tid":5, "ts":1767013385189325, "dur":11989, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/abdal/Desktop/githubproject/terrains/Terrains_Data/Managed/Unity.Timeline.dll" }}
+,{ "pid":12345, "tid":5, "ts":1767013385201380, "dur":8491, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/abdal/Desktop/githubproject/terrains/Terrains_Data/Managed/UnityEngine.VFXModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1767013385209931, "dur":9453, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/abdal/Desktop/githubproject/terrains/Terrains_Data/Managed/UnityEngine.TextRenderingModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1767013385219457, "dur":8535, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/abdal/Desktop/githubproject/terrains/Terrains_Data/Managed/UnityEngine.PropertiesModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1767013385228064, "dur":8577, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/abdal/Desktop/githubproject/terrains/Terrains_Data/Managed/UnityEngine.HotReloadModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1767013385236765, "dur":13589, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/abdal/Desktop/githubproject/terrains/Terrains_Data/Managed/UnityEngine.AnimationModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1767013385250451, "dur":11229, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/abdal/Desktop/githubproject/terrains/Terrains_Data/globalgamemanagers.assets" }}
+,{ "pid":12345, "tid":5, "ts":1767013385261763, "dur":121918, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1767013385142770, "dur":5471, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1767013385148248, "dur":831, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1767013385149080, "dur":4450, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1767013385153546, "dur":747, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.58f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\4.0\\machine.config" }}
+,{ "pid":12345, "tid":6, "ts":1767013385153532, "dur":761, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/abdal/Desktop/githubproject/terrains/MonoBleedingEdge/etc/mono/4.0/machine.config" }}
+,{ "pid":12345, "tid":6, "ts":1767013385163774, "dur":3434, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/abdal/Desktop/githubproject/terrains/MonoBleedingEdge/etc/mono/4.0/machine.config" }}
+,{ "pid":12345, "tid":6, "ts":1767013385167348, "dur":13271, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/abdal/Desktop/githubproject/terrains/Terrains_Data/Managed/System.Transactions.dll" }}
+,{ "pid":12345, "tid":6, "ts":1767013385180727, "dur":169, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1767013385180905, "dur":18212, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/abdal/Desktop/githubproject/terrains/Terrains_Data/Managed/System.Data.dll" }}
+,{ "pid":12345, "tid":6, "ts":1767013385199176, "dur":8891, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/abdal/Desktop/githubproject/terrains/Terrains_Data/Managed/UnityEngine.dll" }}
+,{ "pid":12345, "tid":6, "ts":1767013385208144, "dur":9047, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/abdal/Desktop/githubproject/terrains/Terrains_Data/Managed/UnityEngine.UnityConnectModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1767013385217278, "dur":9226, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/abdal/Desktop/githubproject/terrains/Terrains_Data/Managed/UnityEngine.SubstanceModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1767013385226577, "dur":8242, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/abdal/Desktop/githubproject/terrains/Terrains_Data/Managed/UnityEngine.InputModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1767013385234872, "dur":13670, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/abdal/Desktop/githubproject/terrains/Terrains_Data/Managed/UnityEngine.ClothModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1767013385248767, "dur":10889, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/abdal/Desktop/githubproject/terrains/Terrains_Data/level1" }}
+,{ "pid":12345, "tid":6, "ts":1767013385259747, "dur":123950, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1767013385142919, "dur":5339, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1767013385148267, "dur":861, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1767013385149129, "dur":4378, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1767013385153559, "dur":765, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.58f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\4.5\\web.config" }}
+,{ "pid":12345, "tid":7, "ts":1767013385153524, "dur":801, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/abdal/Desktop/githubproject/terrains/MonoBleedingEdge/etc/mono/4.5/web.config" }}
+,{ "pid":12345, "tid":7, "ts":1767013385154328, "dur":119, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1767013385172799, "dur":95, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1767013385165800, "dur":7153, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/abdal/Desktop/githubproject/terrains/MonoBleedingEdge/etc/mono/4.5/web.config" }}
+,{ "pid":12345, "tid":7, "ts":1767013385173238, "dur":15288, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/abdal/Desktop/githubproject/terrains/Terrains_Data/Managed/System.Net.Http.dll" }}
+,{ "pid":12345, "tid":7, "ts":1767013385188664, "dur":12381, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/abdal/Desktop/githubproject/terrains/Terrains_Data/Managed/Unity.VisualScripting.Antlr3.Runtime.dll" }}
+,{ "pid":12345, "tid":7, "ts":1767013385201097, "dur":8710, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/abdal/Desktop/githubproject/terrains/Terrains_Data/Managed/UnityEngine.VehiclesModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1767013385209869, "dur":9322, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/abdal/Desktop/githubproject/terrains/Terrains_Data/Managed/UnityEngine.TilemapModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1767013385219263, "dur":9041, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/abdal/Desktop/githubproject/terrains/Terrains_Data/Managed/UnityEngine.ScreenCaptureModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1767013385228353, "dur":8586, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/abdal/Desktop/githubproject/terrains/Terrains_Data/Managed/UnityEngine.GameCenterModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1767013385237045, "dur":13561, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/abdal/Desktop/githubproject/terrains/Terrains_Data/Managed/UnityEngine.ARModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1767013385260218, "dur":77, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1767013385250718, "dur":9597, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/abdal/Desktop/githubproject/terrains/Terrains_Data/globalgamemanagers" }}
+,{ "pid":12345, "tid":7, "ts":1767013385260441, "dur":123258, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1767013385143131, "dur":5143, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1767013385148281, "dur":823, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1767013385149105, "dur":4427, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1767013385153533, "dur":134, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/abdal/Desktop/githubproject/terrains/MonoBleedingEdge/etc/mono/4.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":8, "ts":1767013385157346, "dur":5733, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/abdal/Desktop/githubproject/terrains/MonoBleedingEdge/etc/mono/4.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":8, "ts":1767013385163137, "dur":107, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.58f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\EmbedRuntime\\MonoPosixHelper.dll" }}
+,{ "pid":12345, "tid":8, "ts":1767013385163135, "dur":110, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/abdal/Desktop/githubproject/terrains/MonoBleedingEdge/EmbedRuntime/MonoPosixHelper.dll" }}
+,{ "pid":12345, "tid":8, "ts":1767013385163864, "dur":3978, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/abdal/Desktop/githubproject/terrains/MonoBleedingEdge/EmbedRuntime/MonoPosixHelper.dll" }}
+,{ "pid":12345, "tid":8, "ts":1767013385167889, "dur":19644, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/abdal/Desktop/githubproject/terrains/Terrains_Data/Managed/System.Numerics.dll" }}
+,{ "pid":12345, "tid":8, "ts":1767013385187583, "dur":12997, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/abdal/Desktop/githubproject/terrains/Terrains_Data/Managed/Mono.Security.dll" }}
+,{ "pid":12345, "tid":8, "ts":1767013385200632, "dur":8929, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/abdal/Desktop/githubproject/terrains/Terrains_Data/Managed/UnityEngine.VirtualTexturingModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1767013385209649, "dur":9432, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/abdal/Desktop/githubproject/terrains/Terrains_Data/Managed/UnityEngine.UmbraModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1767013385219162, "dur":8666, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/abdal/Desktop/githubproject/terrains/Terrains_Data/Managed/UnityEngine.SharedInternalsModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1767013385227884, "dur":8881, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/abdal/Desktop/githubproject/terrains/Terrains_Data/Managed/UnityEngine.IMGUIModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1767013385249430, "dur":181, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1767013385236859, "dur":12777, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/abdal/Desktop/githubproject/terrains/Terrains_Data/Managed/UnityEngine.AccessibilityModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1767013385260225, "dur":113, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1767013385249779, "dur":10585, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/abdal/Desktop/githubproject/terrains/Terrains_Data/level0" }}
+,{ "pid":12345, "tid":8, "ts":1767013385260501, "dur":123205, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1767013385143302, "dur":4986, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1767013385148296, "dur":488, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1767013385148784, "dur":4725, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1767013385153510, "dur":344, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/abdal/Desktop/githubproject/terrains/MonoBleedingEdge/etc/mono/4.5/settings.map" }}
+,{ "pid":12345, "tid":9, "ts":1767013385160447, "dur":3189, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/abdal/Desktop/githubproject/terrains/MonoBleedingEdge/etc/mono/4.5/settings.map" }}
+,{ "pid":12345, "tid":9, "ts":1767013385163688, "dur":109, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.58f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\EmbedRuntime\\mono-2.0-bdwgc.dll" }}
+,{ "pid":12345, "tid":9, "ts":1767013385163686, "dur":112, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/abdal/Desktop/githubproject/terrains/MonoBleedingEdge/EmbedRuntime/mono-2.0-bdwgc.dll" }}
+,{ "pid":12345, "tid":9, "ts":1767013385164086, "dur":20308, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/abdal/Desktop/githubproject/terrains/MonoBleedingEdge/EmbedRuntime/mono-2.0-bdwgc.dll" }}
+,{ "pid":12345, "tid":9, "ts":1767013385184496, "dur":14441, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/abdal/Desktop/githubproject/terrains/Terrains_Data/Managed/System.Configuration.dll" }}
+,{ "pid":12345, "tid":9, "ts":1767013385199007, "dur":8953, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/abdal/Desktop/githubproject/terrains/Terrains_Data/Managed/Assembly-CSharp.dll" }}
+,{ "pid":12345, "tid":9, "ts":1767013385208016, "dur":9316, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/abdal/Desktop/githubproject/terrains/Terrains_Data/Managed/UnityEngine.UnityCurlModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1767013385217434, "dur":7689, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/abdal/Desktop/githubproject/terrains/Terrains_Data/Managed/UnityEngine.StreamingModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1767013385225193, "dur":9063, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/abdal/Desktop/githubproject/terrains/Terrains_Data/Managed/UnityEngine.JSONSerializeModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1767013385234313, "dur":13789, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/abdal/Desktop/githubproject/terrains/Terrains_Data/Managed/UnityEngine.ClusterInputModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1767013385248279, "dur":9646, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/abdal/Desktop/githubproject/terrains/Terrains_Data/RuntimeInitializeOnLoads.json" }}
+,{ "pid":12345, "tid":9, "ts":1767013385257995, "dur":125696, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1767013385143461, "dur":4843, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1767013385148304, "dur":5199, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1767013385153508, "dur":158, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/abdal/Desktop/githubproject/terrains/MonoBleedingEdge/etc/mono/browscap.ini" }}
+,{ "pid":12345, "tid":10, "ts":1767013385156761, "dur":5329, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/abdal/Desktop/githubproject/terrains/MonoBleedingEdge/etc/mono/browscap.ini" }}
+,{ "pid":12345, "tid":10, "ts":1767013385162146, "dur":112, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/abdal/Desktop/githubproject/terrains/MonoBleedingEdge/etc/mono/2.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":10, "ts":1767013385162341, "dur":4718, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/abdal/Desktop/githubproject/terrains/MonoBleedingEdge/etc/mono/2.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":10, "ts":1767013385180725, "dur":152, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1767013385167237, "dur":13665, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/abdal/Desktop/githubproject/terrains/Terrains_Data/Managed/System.Xml.Linq.dll" }}
+,{ "pid":12345, "tid":10, "ts":1767013385181102, "dur":13416, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/abdal/Desktop/githubproject/terrains/Terrains_Data/Managed/System.Data.DataSetExtensions.dll" }}
+,{ "pid":12345, "tid":10, "ts":1767013385194602, "dur":11960, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/abdal/Desktop/githubproject/terrains/Terrains_Data/Managed/Unity.Postprocessing.Runtime.dll" }}
+,{ "pid":12345, "tid":10, "ts":1767013385206627, "dur":9213, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/abdal/Desktop/githubproject/terrains/Terrains_Data/Managed/UnityEngine.UnityTestProtocolModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1767013385215947, "dur":8392, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/abdal/Desktop/githubproject/terrains/Terrains_Data/Managed/UnityEngine.SubsystemsModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1767013385224403, "dur":9433, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/abdal/Desktop/githubproject/terrains/Terrains_Data/Managed/UnityEngine.LocalizationModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1767013385247943, "dur":54, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1767013385233947, "dur":14118, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/abdal/Desktop/githubproject/terrains/Terrains_Data/Managed/UnityEngine.ClusterRendererModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1767013385248273, "dur":9450, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/abdal/Desktop/githubproject/terrains/Terrains_Data/ScriptingAssemblies.json" }}
+,{ "pid":12345, "tid":10, "ts":1767013385257806, "dur":125866, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1767013385143649, "dur":4670, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1767013385148319, "dur":5183, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1767013385153508, "dur":153, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/abdal/Desktop/githubproject/terrains/MonoBleedingEdge/etc/mono/config" }}
+,{ "pid":12345, "tid":11, "ts":1767013385157371, "dur":4577, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/abdal/Desktop/githubproject/terrains/MonoBleedingEdge/etc/mono/config" }}
+,{ "pid":12345, "tid":11, "ts":1767013385162004, "dur":115, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.58f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\2.0\\machine.config" }}
+,{ "pid":12345, "tid":11, "ts":1767013385162002, "dur":118, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/abdal/Desktop/githubproject/terrains/MonoBleedingEdge/etc/mono/2.0/machine.config" }}
+,{ "pid":12345, "tid":11, "ts":1767013385162482, "dur":4519, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/abdal/Desktop/githubproject/terrains/MonoBleedingEdge/etc/mono/2.0/machine.config" }}
+,{ "pid":12345, "tid":11, "ts":1767013385167338, "dur":22156, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/abdal/Desktop/githubproject/terrains/Terrains_Data/Managed/System.Xml.dll" }}
+,{ "pid":12345, "tid":11, "ts":1767013385189596, "dur":11806, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/abdal/Desktop/githubproject/terrains/Terrains_Data/Managed/UnityEngine.UI.dll" }}
+,{ "pid":12345, "tid":11, "ts":1767013385201461, "dur":8729, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/abdal/Desktop/githubproject/terrains/Terrains_Data/Managed/UnityEngine.UnityWebRequestWWWModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1767013385210264, "dur":9522, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/abdal/Desktop/githubproject/terrains/Terrains_Data/Managed/UnityEngine.TextCoreTextEngineModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1767013385219913, "dur":8441, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/abdal/Desktop/githubproject/terrains/Terrains_Data/Managed/UnityEngine.PhysicsModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1767013385228444, "dur":8575, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/abdal/Desktop/githubproject/terrains/Terrains_Data/Managed/UnityEngine.GIModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1767013385237125, "dur":14725, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/abdal/Desktop/githubproject/terrains/Terrains_Data/Managed/UnityEngine.AIModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1767013385251949, "dur":131727, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1767013385143733, "dur":4602, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1767013385148336, "dur":5164, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1767013385153525, "dur":959, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.58f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\mconfig\\config.xml" }}
+,{ "pid":12345, "tid":12, "ts":1767013385153508, "dur":993, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/abdal/Desktop/githubproject/terrains/MonoBleedingEdge/etc/mono/mconfig/config.xml" }}
+,{ "pid":12345, "tid":12, "ts":1767013385169110, "dur":5162, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/abdal/Desktop/githubproject/terrains/MonoBleedingEdge/etc/mono/mconfig/config.xml" }}
+,{ "pid":12345, "tid":12, "ts":1767013385174405, "dur":14845, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/abdal/Desktop/githubproject/terrains/Terrains_Data/Managed/System.IO.Compression.dll" }}
+,{ "pid":12345, "tid":12, "ts":1767013385189372, "dur":12515, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/abdal/Desktop/githubproject/terrains/Terrains_Data/Managed/Unity.VisualScripting.Flow.dll" }}
+,{ "pid":12345, "tid":12, "ts":1767013385201935, "dur":9311, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/abdal/Desktop/githubproject/terrains/Terrains_Data/Managed/UnityEngine.UnityWebRequestAssetBundleModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1767013385211321, "dur":9697, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/abdal/Desktop/githubproject/terrains/Terrains_Data/Managed/UnityEngine.TLSModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1767013385221082, "dur":8923, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/abdal/Desktop/githubproject/terrains/Terrains_Data/Managed/UnityEngine.NVIDIAModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1767013385230075, "dur":9300, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/abdal/Desktop/githubproject/terrains/Terrains_Data/Managed/UnityEngine.ContentLoadModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1767013385239452, "dur":30794, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/abdal/Desktop/githubproject/terrains/Terrains_Data/sharedassets1.assets" }}
+,{ "pid":12345, "tid":12, "ts":1767013385270305, "dur":113384, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1767013385143788, "dur":4565, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1767013385148353, "dur":5144, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1767013385153516, "dur":311, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1767013385160002, "dur":1833, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/abdal/Desktop/githubproject/terrains/Terrains_Data/app.info" }}
+,{ "pid":12345, "tid":13, "ts":1767013385161837, "dur":275, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/abdal/Desktop/githubproject/terrains/MonoBleedingEdge/etc/mono/2.0/settings.map" }}
+,{ "pid":12345, "tid":13, "ts":1767013385162582, "dur":4871, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/abdal/Desktop/githubproject/terrains/MonoBleedingEdge/etc/mono/2.0/settings.map" }}
+,{ "pid":12345, "tid":13, "ts":1767013385167521, "dur":17697, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/abdal/Desktop/githubproject/terrains/Terrains_Data/Managed/System.Security.dll" }}
+,{ "pid":12345, "tid":13, "ts":1767013385185313, "dur":13886, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/abdal/Desktop/githubproject/terrains/Terrains_Data/Managed/System.ComponentModel.Composition.dll" }}
+,{ "pid":12345, "tid":13, "ts":1767013385199272, "dur":9304, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/abdal/Desktop/githubproject/terrains/Terrains_Data/Managed/UnityEngine.XRModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1767013385208635, "dur":9461, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/abdal/Desktop/githubproject/terrains/Terrains_Data/Managed/UnityEngine.UnityAnalyticsModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1767013385218157, "dur":8877, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/abdal/Desktop/githubproject/terrains/Terrains_Data/Managed/UnityEngine.SpriteShapeModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1767013385227096, "dur":8715, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/abdal/Desktop/githubproject/terrains/Terrains_Data/Managed/UnityEngine.InputLegacyModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1767013385235879, "dur":14353, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/abdal/Desktop/githubproject/terrains/Terrains_Data/Managed/UnityEngine.AudioModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1767013385269489, "dur":79, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1767013385250386, "dur":19293, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/abdal/Desktop/githubproject/terrains/Terrains_Data/globalgamemanagers.assets.resS" }}
+,{ "pid":12345, "tid":13, "ts":1767013385269764, "dur":113920, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1767013385143918, "dur":4450, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1767013385148369, "dur":5130, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1767013385153523, "dur":920, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.58f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\UnityCrashHandler64.exe" }}
+,{ "pid":12345, "tid":14, "ts":1767013385153508, "dur":937, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/abdal/Desktop/githubproject/terrains/UnityCrashHandler64.exe" }}
+,{ "pid":12345, "tid":14, "ts":1767013385164558, "dur":10125, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/abdal/Desktop/githubproject/terrains/UnityCrashHandler64.exe" }}
+,{ "pid":12345, "tid":14, "ts":1767013385174822, "dur":14734, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/abdal/Desktop/githubproject/terrains/Terrains_Data/Managed/System.EnterpriseServices.dll" }}
+,{ "pid":12345, "tid":14, "ts":1767013385189642, "dur":12024, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/abdal/Desktop/githubproject/terrains/Terrains_Data/Managed/Unity.AI.Navigation.dll" }}
+,{ "pid":12345, "tid":14, "ts":1767013385201716, "dur":8827, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/abdal/Desktop/githubproject/terrains/Terrains_Data/Managed/UnityEngine.UnityWebRequestAudioModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1767013385210620, "dur":9646, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/abdal/Desktop/githubproject/terrains/Terrains_Data/Managed/UnityEngine.TerrainModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1767013385220339, "dur":8730, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/abdal/Desktop/githubproject/terrains/Terrains_Data/Managed/UnityEngine.PerformanceReportingModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1767013385229135, "dur":8466, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/abdal/Desktop/githubproject/terrains/Terrains_Data/Managed/UnityEngine.CrashReportingModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1767013385237673, "dur":62071, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/abdal/Desktop/githubproject/terrains/Terrains_Data/sharedassets1.assets.resS" }}
+,{ "pid":12345, "tid":14, "ts":1767013385299800, "dur":83883, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1767013385143964, "dur":4420, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1767013385148384, "dur":5130, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1767013385153520, "dur":930, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/abdal/Desktop/githubproject/terrains/MonoBleedingEdge/etc/mono/4.5/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":15, "ts":1767013385167098, "dur":7487, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/abdal/Desktop/githubproject/terrains/MonoBleedingEdge/etc/mono/4.5/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":15, "ts":1767013385174695, "dur":14040, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/abdal/Desktop/githubproject/terrains/Terrains_Data/Managed/System.IO.Compression.FileSystem.dll" }}
+,{ "pid":12345, "tid":15, "ts":1767013385188814, "dur":12604, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/abdal/Desktop/githubproject/terrains/Terrains_Data/Managed/Unity.VisualScripting.State.dll" }}
+,{ "pid":12345, "tid":15, "ts":1767013385201470, "dur":8760, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/abdal/Desktop/githubproject/terrains/Terrains_Data/Managed/UnityEngine.UnityWebRequestTextureModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1767013385210352, "dur":9401, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/abdal/Desktop/githubproject/terrains/Terrains_Data/Managed/UnityEngine.TextCoreFontEngineModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1767013385219824, "dur":8911, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/abdal/Desktop/githubproject/terrains/Terrains_Data/Managed/UnityEngine.ProfilerModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1767013385228787, "dur":8498, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/abdal/Desktop/githubproject/terrains/Terrains_Data/Managed/UnityEngine.DSPGraphModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1767013385242564, "dur":98, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1767013385237337, "dur":5356, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/abdal/Desktop/githubproject/terrains/Terrains_Data/sharedassets1.resource" }}
+,{ "pid":12345, "tid":15, "ts":1767013385242878, "dur":16683, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/abdal/Desktop/githubproject/terrains/Terrains_Data/sharedassets0.assets" }}
+,{ "pid":12345, "tid":15, "ts":1767013385259627, "dur":124060, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1767013385144047, "dur":4351, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1767013385148399, "dur":5119, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1767013385153524, "dur":139, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/abdal/Desktop/githubproject/terrains/MonoBleedingEdge/etc/mono/4.5/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":16, "ts":1767013385158688, "dur":3540, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/abdal/Desktop/githubproject/terrains/MonoBleedingEdge/etc/mono/4.5/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":16, "ts":1767013385162286, "dur":122, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/abdal/Desktop/githubproject/terrains/MonoBleedingEdge/etc/mono/2.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":16, "ts":1767013385163924, "dur":3413, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/abdal/Desktop/githubproject/terrains/MonoBleedingEdge/etc/mono/2.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":16, "ts":1767013385167406, "dur":16015, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/abdal/Desktop/githubproject/terrains/Terrains_Data/Managed/System.ServiceModel.Internals.dll" }}
+,{ "pid":12345, "tid":16, "ts":1767013385183544, "dur":15953, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/abdal/Desktop/githubproject/terrains/Terrains_Data/Managed/System.Core.dll" }}
+,{ "pid":12345, "tid":16, "ts":1767013385199574, "dur":9159, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/abdal/Desktop/githubproject/terrains/Terrains_Data/Managed/UnityEngine.WindModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1767013385208783, "dur":9424, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/abdal/Desktop/githubproject/terrains/Terrains_Data/Managed/UnityEngine.UnityAnalyticsCommonModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1767013385218280, "dur":8980, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/abdal/Desktop/githubproject/terrains/Terrains_Data/Managed/UnityEngine.SpriteMaskModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1767013385227326, "dur":9174, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/abdal/Desktop/githubproject/terrains/Terrains_Data/Managed/UnityEngine.ImageConversionModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1767013385236581, "dur":12552, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/abdal/Desktop/githubproject/terrains/Terrains_Data/Managed/UnityEngine.AssetBundleModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1767013385249238, "dur":10676, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/abdal/Desktop/githubproject/terrains/Terrains_Data/level0.resS" }}
+,{ "pid":12345, "tid":16, "ts":1767013385259994, "dur":123706, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1767013385390252, "dur":1341, "ph":"X", "name": "ProfilerWriteOutput" }
+,
