@@ -37,8 +37,9 @@ This project is currently in a **prototype stage**.
 Gameplay systems and mechanics are still being improved.
 
 ## 📸 Screenshots
-Add your screenshots or GIFs here:
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/c1b69444-dea4-4be7-8a63-a9f38acc52cf" />
 
-<img width="1920" alt="image" src="YOUR_IMAGE_LINK_HERE_1" />
-<img width="1920" alt="image" src="YOUR_IMAGE_LINK_HERE_2" />
-<img width="1920" alt="image" src="YOUR_IMAGE_LINK_HERE_3" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/c739cbba-f7e9-4f5a-88c8-222b9e0b1b64" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/5defe046-d26d-4008-982e-9b38f76231b0" />
+
+
