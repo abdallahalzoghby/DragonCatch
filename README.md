@@ -3,38 +3,42 @@
 An action-adventure prototype game developed using Unity.
 
 ## 🎮 Overview
-**DragonCatch** is an action/adventure third-person prototype focused on movement, combat, and enemy interactions.  
-The game includes terrain-based environments, animated characters, and basic AI systems for chasing and attacking the player.
+**DragonCatch** is an action/adventure prototype focused on movement and simple combat.  
+The camera shows the **full main character on screen** while exploring different terrain environments and fighting enemies.
+
+The project is mainly a prototype to test:
+- player movement
+- attacking mechanics
+- enemy behavior and combat
 
 ## 🚀 Features
-- Third-person player controller  
+- Full-body camera view of the main character  
+- Keyboard-only controls (no mouse input)  
 - Melee attack system  
-- Enemy AI with chase & attack states  
-- Animator State Machine–based animations  
-- Terrain environments and prefabs  
+- **Animated dragon enemy NPC** that can chase and be defeated  
+- 3D terrain environments and prefabs  
 - Sound effects and background music  
-- Prototype-friendly, extendable code structure  
 
 ## 🛠 Technologies Used
-- Unity (LTS recommended)
-- C#
-- Animator & State Machines
-- Basic AI / Navigation systems (NavMesh if used)
-
-## 📦 How to Build & Run
-1. Clone or download this repository  
-2. Open the project in **Unity**  
-3. Open the main scene from the **Scenes** folder  
-4. Press **Play** inside the Unity Editor  
+- Unity  
+- C#  
+- Animator & Animation Clips (player + dragon enemy)
+- Basic enemy AI logic
 
 ## 🎮 Controls
-- **W / A / S / D** – Movement  
-- **Left Mouse Button** – Attack  
-- **Space** – Jump (if implemented)  
-- **Left Shift** – Sprint (if implemented)
+- **W / A / S / D** – Move  
+- **Left Shift** – Sprint  
+- **Space** – Jump  
+- **F** – Attack  
+- *(Mouse is not used in gameplay controls)*
 
 ## 🧭 Project Status
-This project is currently in a **prototype phase**.  
-Gameplay systems and assets are still being iterated and improved.
+This project is currently in a **prototype stage**.  
+Gameplay systems and mechanics are still being improved.
 
 ## 📸 Screenshots
+Add your screenshots or GIFs here:
+
+<img width="1920" alt="image" src="YOUR_IMAGE_LINK_HERE_1" />
+<img width="1920" alt="image" src="YOUR_IMAGE_LINK_HERE_2" />
+<img width="1920" alt="image" src="YOUR_IMAGE_LINK_HERE_3" />
